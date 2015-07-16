@@ -1,0 +1,1 @@
+"Hello World\n" repeated(1000) print

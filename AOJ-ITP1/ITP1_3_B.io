@@ -1,0 +1,1 @@
+File standardInput readLines foreach(i, v, writeln("Case ", i, ": ", v))
